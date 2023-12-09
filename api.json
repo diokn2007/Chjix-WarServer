@@ -1,0 +1,12 @@
+{
+    "xP21": "https://xva-upt.rfsadreno.repl.co",
+    "xP22": {
+        "main": "https://xva-api.up.railway.app/api",
+				"xps": "https://xps.up.railway.app/api",
+        "sfw": "https://api.waifu.pics/sfw",
+        "nsfw": "https://api.waifu.pics/nsfw",
+        "quote": "https://animechan.xyz/api/random",
+        "popcat": "https://api.popcat.xyz",
+        "rule34": "https://scandalous-flowery-promotion.glitch.me"
+    }
+}
