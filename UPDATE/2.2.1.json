@@ -1,0 +1,12 @@
+{
+  "changed":[
+    "./package.json",
+    ],
+  "added":[
+    "./Scripts/commands/admin/refreshAppstate.js",
+     "./Scripts/commands/admin/ChangePrefix.js"
+    ],
+  "removed":[
+    ],
+  "preVersion":"2.2.1"
+}
